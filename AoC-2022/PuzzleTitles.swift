@@ -21,5 +21,6 @@ let puzzleTitles = [
     "Monkey in the Middle",
     "Hill Climbing Algorithm",
     "Distress Signal",
-    "Regolith Reservoir"
+    "Regolith Reservoir",
+    "Beacon Exclusion Zone"
 ]

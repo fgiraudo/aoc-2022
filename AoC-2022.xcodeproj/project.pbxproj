@@ -47,6 +47,7 @@
 		6A39823D2938BFD500CBCD09 /* Day2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A39823C2938BFD500CBCD09 /* Day2.swift */; };
 		6AA808D529486A5800772625 /* day13.txt in Resources */ = {isa = PBXBuildFile; fileRef = 6AA808D429486A5800772625 /* day13.txt */; };
 		6AA808D92949D93B00772625 /* day14.txt in Resources */ = {isa = PBXBuildFile; fileRef = 6AA808D82949C77A00772625 /* day14.txt */; };
+		6AA808DB294B1E5100772625 /* day15.txt in Resources */ = {isa = PBXBuildFile; fileRef = 6AA808DA294B13F200772625 /* day15.txt */; };
 		6AACB1A4294087CB00762FAC /* day7.txt in Resources */ = {isa = PBXBuildFile; fileRef = 6AACB1A3294087CB00762FAC /* day7.txt */; };
 		6AACB1A729408FB300762FAC /* SwiftGraph in Frameworks */ = {isa = PBXBuildFile; productRef = 6AACB1A629408FB300762FAC /* SwiftGraph */; };
 		6AACB1A929448D2300762FAC /* day8.txt in Resources */ = {isa = PBXBuildFile; fileRef = 6AACB1A829448D2300762FAC /* day8.txt */; };
@@ -99,6 +100,7 @@
 		6A39823C2938BFD500CBCD09 /* Day2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day2.swift; sourceTree = "<group>"; };
 		6AA808D429486A5800772625 /* day13.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = day13.txt; sourceTree = "<group>"; };
 		6AA808D82949C77A00772625 /* day14.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = day14.txt; sourceTree = "<group>"; };
+		6AA808DA294B13F200772625 /* day15.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = day15.txt; sourceTree = "<group>"; };
 		6AACB1A3294087CB00762FAC /* day7.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = day7.txt; sourceTree = "<group>"; };
 		6AACB1A829448D2300762FAC /* day8.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = day8.txt; sourceTree = "<group>"; };
 		6AACB1AA2944A23000762FAC /* day9.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = day9.txt; sourceTree = "<group>"; };
@@ -176,6 +178,7 @@
 				6AACB1B32947133800762FAC /* day12.txt */,
 				6AA808D429486A5800772625 /* day13.txt */,
 				6AA808D82949C77A00772625 /* day14.txt */,
+				6AA808DA294B13F200772625 /* day15.txt */,
 			);
 			path = Inputs;
 			sourceTree = "<group>";
@@ -277,6 +280,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6AA808DB294B1E5100772625 /* day15.txt in Resources */,
 				6AA808D92949D93B00772625 /* day14.txt in Resources */,
 				6AACB1B42947133800762FAC /* day12.txt in Resources */,
 				6A39822A2938AEAC00CBCD09 /* Preview Assets.xcassets in Resources */,
